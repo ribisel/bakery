@@ -9,6 +9,9 @@ image_view: true
 {% if page.image_view %}
 	{% for category in site.categories %}
 		<h2>{{ category[0] }}</h2>
+		{% if category[0] == 'Cookies' %}
+			<h3>Kekse</h3>
+		{% enif %}
 		<div class="recipes">
 			{% for recipe in category[1] %}
 				<div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
