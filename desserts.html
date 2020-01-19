@@ -1,16 +1,16 @@
 ---
-title: Desserts2
+title: Desserts
 image_view: true
 ---
-<h1>Desserts1</h1>
+<h1>Desserts</h1>
 
 
 
 {% if page.image_view %}
 	{% for category in site.categories %}
-		<h2>{{ category[0] }}</h2>
+		
 		{% if category[0] == 'Cookies' %}
-			<h3>Kekse</h3>
+		<h2>{{ category[0] }}</h2>
 		
 		<div class="recipes">
 			{% for recipe in category[1] %}
