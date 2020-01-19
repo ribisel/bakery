@@ -12,29 +12,19 @@ recipe:
   
 ---
 # Ingredients
-    * 200 g butter
-    * 1 cup sugar
-    * 1 cup golden syrup
-    * 3 cups flour
-    * 1 tablespoon ground ginger
-    * 1 teaspoon baking soda
+* 200 g butter
+* 1 cup sugar
+* 1 cup golden syrup
+* 3 cups flour
+* 1 tablespoon ground ginger
+* 1 teaspoon baking soda
 
 # Directions
-    1. Pre heat oven to 350°F.
-    2. Cream the butter and the sugar.
-    3. Add the golden syrup and the dry ingredients.
-    4. Mix everything together and roll into little balls. Put onto a greased baking tray, pressing the balls down very slightly with a fork.
-    5. Bake at 350°F for 15 minutes.
-    6. Cool on a wire rack and keep in an airtight container once cold.
+1. Pre heat oven to 350°F.
+2. Cream the butter and the sugar.
+3. Add the golden syrup and the dry ingredients.
+4. Mix everything together and roll into little balls. Put onto a greased baking tray, pressing the balls down very slightly with a fork.
+5. Bake at 350°F for 15 minutes.
+5. Cool on a wire rack and keep in an airtight container once cold.
 
-![Cookie](https://source.unsplash.com/euGck1ifvp0)
 
-Carefully placing them on the tray.
-
-![Cookie](https://source.unsplash.com/RUPPakds28k)
-
-Little Gavin loves them.
-
-![Cookie](https://source.unsplash.com/YnrSLOAjOEA)
-
-Delicious!
