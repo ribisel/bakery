@@ -3,6 +3,7 @@ date: 2017-01-05
 title: Gingernut Cookies
 categories:
   - Christmas
+  - Cookies
 featured_image: https://images.unsplash.com/photo-1486893732792-ab0085cb2d43?w=1560&h=940&fit=crop
 recipe:
   servings: 60 cookies
