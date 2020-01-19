@@ -11,7 +11,7 @@ image_view: true
 		<h2>{{ category[0] }}</h2>
 		{% if category[0] == 'Cookies' %}
 			<h3>Kekse</h3>
-		{% enif %}
+		{% endif %}
 		<div class="recipes">
 			{% for recipe in category[1] %}
 				<div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
